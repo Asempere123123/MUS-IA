@@ -1,0 +1,6 @@
+/venv
+/IA/venv
+pyvenv.cfg
+/IA/__pycache__
+/IA/pyvenv.cfg
+/IA/IA.code-workspace
